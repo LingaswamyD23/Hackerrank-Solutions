@@ -1,0 +1,1 @@
+[print(sum(map(int, str(pow(2, int(input())))))) for _ in range(int(input()))]
